@@ -1,0 +1,33 @@
+{
+  "name": "freekeys",
+  "version": "0.0.1",
+  "description": "Free API keys OMDb and TMDb without registration.",
+  "main": "index.js",
+  "keywords": [
+    "api",
+    "key",
+    "keys",
+    "token",
+    "imdb",
+    "omdb",
+    "omdbapi",
+    "tmdb",
+    "themoviedb",
+    "free",
+    "open",
+    "gulfstream"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rickylawson/freekeys.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rickylawson/freekeys/issues"
+  },
+  "homepage": "https://gulfstream.to",
+  "dependencies": {
+    "axios": "0.18.0",
+    "downloading": "0.0.1"
+  }
+}
