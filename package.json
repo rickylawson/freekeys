@@ -1,6 +1,6 @@
 {
   "name": "freekeys",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Free API keys OMDb and TMDb without registration.",
   "main": "index.js",
   "keywords": [
