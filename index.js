@@ -11,7 +11,7 @@ module.exports = (params = {}) => {
     bar.tick(1);
     const token = params => {
         return new Promise(resolve => {
-            axios.post('https://gulfstream.to/freekeys', {data: params}).then(res => {
+            axios.post('https://freekeys.gulfstream.to', {data: params}).then(res => {
                 bar.tick(1);
                 resolve(
                     res && typeof res.data === 'object'

@@ -1,6 +1,6 @@
 {
   "name": "freekeys",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Free API keys OMDb and TMDb without registration.",
   "main": "index.js",
   "keywords": [
@@ -28,6 +28,6 @@
   "homepage": "https://gulfstream.to",
   "dependencies": {
     "axios": "0.18.0",
-    "downloading": "0.0.1"
+    "downloading": "latest"
   }
 }
