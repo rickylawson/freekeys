@@ -1,6 +1,6 @@
 {
   "name": "freekeys",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Free API keys OMDb and TMDb without registration.",
   "main": "index.js",
   "keywords": [
@@ -25,9 +25,5 @@
   "bugs": {
     "url": "https://github.com/rickylawson/freekeys/issues"
   },
-  "homepage": "https://gulfstream.to",
-  "dependencies": {
-    "axios": "0.18.0",
-    "downloading": "latest"
-  }
+  "homepage": "https://gulfstream.to"
 }
